@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset original
+Datos/*.csv
+
+# Modelos y resultados
+models/
+reports/
+
+# Editor
+.vscode/
